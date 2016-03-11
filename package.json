@@ -28,11 +28,13 @@
   "homepage": "https://github.com/jhudson8/react-chartjs",
   "peerDependencies": {
     "react": "*",
-    "react-dom": "*",
-    "chart.js": "*"
+    "react-dom": "*"
   },
   "devDependencies": {
     "uglify-js": "^2.4.16",
-    "webpack": "^1.4.14"
+    "webpack": "^1.4.14",
+    "chart.js": "nnnick/Chart.js#v2.0-dev",
+    "react": "*",
+    "react-dom": "*"
   }
 }
